@@ -1,0 +1,22 @@
+{
+    "role": "admin",
+    "userID": "1234567890",
+    "password": "admin@123",
+    "applied": false,
+    "form": {
+        "name": "",
+        "email": "",
+        "address": "",
+        "phone": "",
+        "img": "",
+        "tenth": "",
+        "twelve": "",
+        "residence": "",
+        "income": "",
+        "caste": "",
+        "adhara": "",
+        "bloodGroup": ""
+    },
+    "error": "",
+    "status": ""
+}
